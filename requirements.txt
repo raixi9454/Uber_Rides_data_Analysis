@@ -1,0 +1,11 @@
+
+# This project uses Power BI and Power Query for data visualization and cleaning.
+# No Python packages are directly required for Power BI, but here are optional tools 
+# you might use if you're processing data or doing analysis with Python.
+
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+openpyxl
